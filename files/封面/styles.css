@@ -1,0 +1,49 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(255, 153, 204, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:794px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:714px;
+  height:140px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'宋体 Bold', '宋体';
+  font-weight:700;
+  font-style:normal;
+}
+#u0 {
+  position:absolute;
+  left:80px;
+  top:92px;
+  width:714px;
+  height:140px;
+  font-family:'宋体 Bold', '宋体';
+  font-weight:700;
+  font-style:normal;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:710px;
+  word-wrap:break-word;
+}
